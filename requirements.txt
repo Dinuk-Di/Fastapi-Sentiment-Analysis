@@ -1,0 +1,8 @@
+fastapi[standard]
+python-dotenv
+scikit-learn
+pandas
+joblib
+nltk
+beautifulsoup4
+lxml
